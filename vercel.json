@@ -1,0 +1,7 @@
+{
+    "name": "unicloudfd",
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://7da5f9a2-0a66-4571-8f16-f0d4142c24d5.bspapp.com/$1"}
+    ]
+  }
